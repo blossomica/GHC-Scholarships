@@ -1,7 +1,7 @@
 # GHC-Scholarships
 
 Comprehensive list of student scholarships for [the Grace Hopper Celebration for
-Women in Computing](http://ghc.anitaborg.org/) held every October. This list aims
+Women in Computing](http://ghc.anitaborg.org/) held every Fall. This list aims
 to cover all relevant scholarships, even if they apply to specific sub-groups
 (LGBTQ+, specific country, etc) to enable as many students to attend GHC as
 possible!
@@ -9,21 +9,13 @@ possible!
 ### Contributing
 
 To add to this, send a pull request. If you aren't familiar enough with git/Github, just open an
-[Issue](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships/issues). If you deeply prefer
-email, you can reach a mod at:
-* aliceyoung.9@gmail.com.
+[Issue](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships/issues).
 
-## 2017 Scholarships
-| Scholarship | Opens | Deadline | Results Released | Eligibility |
-|-------|----------|-------------|------------------|-------------|
-[Google Travel Grant Application: 2017 Grace Hopper Conference](https://goo.gl/JuBKHM) | | July 10 | Approximately 8 - 10 weeks prior to the date of the conference | Applicants must be university students and industry professionals in the US and Canada who are excelling in computing and passionate about supporting women in tech |
-[Accenture Grace Hopper Scholarship](http://accenture.com/ghc2017) | Week of 6/19 | July 10th at 5:00pm EDT| | Applicants must be enrolled full time in a Bachelors program at a four-year college or university in the United States or Canada at the time the application is submitted. The scholarship is open to students pursuing Computer Science, Computer Engineering, or a related STEM field. You must be at least 18 years of age by October 1, 2017. You must currently have a 3.0 cumulative grade point average out of a possible 4.0, or a 4.0 cumulative grade point average out of a possible 5.0.|
-[Yext Grace Hopper Scholarship](https://boards.greenhouse.io/gracehopper2017) | | August 1, 2017 at 12:00pm EDT|early September| The Yext sponsorship is designed to identify and support extraordinary rising college juniors (Class of 2019), seniors (Class of 2018), and graduate students who are preparing for a career in the Technology sector. Future Software Engineers, Product Managers, Project Managers, and UX/Visual Web Designers are encouraged to apply!|
-[GRA-W GHC Research Scholars Program](http://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/) | | Aug 15| | This scholarship is given to undergraduate students, who identify as a woman, in the computer science and engineering field, who have completed at least one year of undergraduate study. Must attend a US institution or be a US citizen/permanent resident studying abroad.|
-| &nbsp; | | | | |
-[Facebook GHC Scholarship](https://www.facebook.com/careers/program/gracehopper2017/) | April 15 | June 19 | July 15 | Enrolled at an educational institution (high school through post-doc students) |
-[NCWIT GHC17 Travel Grant](https://www.aspirations.org/2017-ncwit-travel-grant-grace-hopper-celebration-women-computing-official-rules) | May 12 | June 16 | July 7 | A member of the NCWIT Aspirations in Computing Community, reside in the United States of America or be a US citizen residing in Puerto Rico, US Virgin Islands, Guam or on US Military Bases, US citizen or permanent resident with a valid Green Card and have a valid US Social Security number, at least 18 years old, not attending high school, not immediate family (including spouses, siblings, children, grandchildren and persons residing in the same household) of employees, extended staff, contractors or board members of NCWIT. |
-[ABI Hoppers Program](https://ghc.anitaborg.org/hoppers/) | May 13 | May 31 | July 7 | Work multiple shifts, up to eight non-consecutive hours spread over the three days of GHC. Attend an orientation and commit to assigned shifts.
-[Microsoft Conference Scholarships](https://careers.microsoft.com/students/scholarships) | March 2| May 5 | June 1 | Bachelor’s, master's or PhD student at a four-year college or university in the United States, Canada or Mexico |
-[Best ACM-W Officer Contest](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships/blob/master/ACMWContestFlyer_Best%20Officer_Final.pdf) | | May 15 | Week of June 5 | ACM-W Officers |
-[GHC Conference Scholarship](http://ghc.anitaborg.org/2017-student-academic/2017-scholarships/) | January 25 | March 8 | May 10 | Full time student in an accredited degree program at a college or university at the time of the conference |
+## 2019 Scholarships
+
+| Scholarship | Opens | Deadline | Level | Eligibility | Includes |
+| --- | --- | --- | --- | --- | --- |
+| [GHC Conference Scholarship](https://ghc.anitab.org/2019-student-academic/scholarships/) | -- | March 6, 2019 at 5 p.m. PT | Undergraduate<br>Graduate | Full-time student in an accredited degree program at a college or university at the time of the conference. | Scholarships include individual registration for the three day celebration, hotel accommodations (student scholars will be assigned a roommate), airfare booked and paid for by AnitaB.org Travel Consultant, travel stipend (if used wisely, stipend will cover transportation costs to and from the airport, baggage fees, meals, and other travel incidentals) |
+| [Hoppers Program](https://ghc.anitab.org/hoppers/) | May 2019 | -- | Volunteers | These volunteers work multiple shifts, up to eight non-consecutive hours spread over the three days of the celebration. They must attend an orientation and commit to their assigned shifts. Hoppers may sometimes miss sessions in order to make GHC run successfully. | For their efforts on behalf of GHC, Hoppers receive complimentary registration and are able to attend sessions, visit the career fair, and take advantage of everything GHC has to offer. |
+| [Microsoft Diversity Conference Scholarship](https://careers.microsoft.com/us/en/usscholarshipprogram) [(Application Link)](https://microsoft.recsolu.com/external/requisitions/KHv89mG0hExa6xo_QGV1bg) | February 1, 2019 | February 28, 2019 | Undergraduate<br>Graduate | Applicants must be enrolled full time in a Bachelors, Masters, or PhD program at a four-year college or university in the United States, Canada, or Mexico at the time the application is submitted. The scholarship is open to students pursuing Computer Science, Computer Engineering, or a related STEM field. | Paid registration, Travel, hotel, and meal stipend |
+| [CRA-W Grace Hopper Celebration Research Scholars Program](https://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/) [(Application Link)](https://www.cvent.com/c/abstracts/7dc53111-2f5a-4bcd-a2ec-66337b278200) |  -- | April 5, 2019 11:59 p.m. ET | Undergraduate | This scholarship is given to undergraduate students in the computer science and engineering field attending a US institution and/or be a US citizen or permanent resident studying abroad, who have completed at least one year of undergraduate study at the college level, and be majoring or planning to major in computer science, computer engineering, or informatics.  We cannot support students after their graduation date. | CRA will directly cover the cost of the $450 student registration to the Grace Hopper Celebration. Selected Research Scholars will be provided a registration link and code, which must be used for their registration. Registrations completed outside of this process will not be reimbursed. All CRA-W GHC Research Scholars will share a hotel room with another scholar. CRA will directly pay for the hotel room expenses; however, scholars must provide a credit card or debit card to the hotel upon check-in for any incidental expenses they may incur. CRA will reimburse your actual reasonable travel expenses up to a limit of $350.00. Please save all your receipts, as you will need those when submitting your reimbursement request after GHC. |
